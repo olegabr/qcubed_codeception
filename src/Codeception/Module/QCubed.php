@@ -77,7 +77,7 @@ class QCubed extends Framework// implements ActiveRecord, PartedModule
     {
     }
 
-    public function _before(TestInterface $test)
+    public function _before(\Codeception\TestInterface $test)
     {
     }
 
