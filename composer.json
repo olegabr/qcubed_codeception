@@ -1,5 +1,5 @@
 {
-    "name":"qcubed/qcubed_codeception",
+    "name":"olegabr/qcubed_codeception",
     "description":"QCubed module for codeception",
     "keywords":["qcubed", "BDD", "acceptance testing", "functional testing", "unit testing", "tdd"],
     "homepage":"http://qcu.be/",
